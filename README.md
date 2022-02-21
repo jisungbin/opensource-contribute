@@ -10,6 +10,7 @@
 2. [털뭉치: 집사들의 공간](https://github.com/furry-pet/fur-Android)
 3. [다행: 다같이 정하는 여행 계획](https://github.com/dahaeng/dahaeng-android)
 4. [쓱싹: 유저간 좋은 컨텐츠 링크 공유 서비스](https://github.com/all-link/sseukssak-android)
+5. [Talent: Global Talent Exchange Service](https://github.com/talent-service/talent-app)
 
 # 토이 프로젝트
 
