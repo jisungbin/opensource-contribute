@@ -18,6 +18,7 @@
 2. [GitMessengerBot: 다양한 언어를 지원하는 최첨단 메신저 봇](https://github.com/GitMessengerBot/GitMessengerBot-Android)
 3. [carrot.style: 링크 단축 시스템](https://github.com/carrot-style/carrot-android)
 4. [AlarmProject: 색다른 알람 서비스](https://github.com/4538cgy/AlarmProject)
+5. 커플 데이트 기록장
 
 # 오픈소스 기여
 
