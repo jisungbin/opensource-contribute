@@ -17,7 +17,7 @@
 1. [Dev-Event-Android: 개발자 행사 모음](https://github.com/brave-people/Dev-Event-Android)
 2. [GitMessengerBot: 다양한 언어를 지원하는 최첨단 메신저 봇](https://github.com/GitMessengerBot/GitMessengerBot-Android)
 3. [carrot.style: 링크 단축 시스템](https://github.com/carrot-style/carrot-android)
-4. [AlarmProject: 색다른 알람 어플리케이션](https://github.com/4538cgy/AlarmProject)
+4. [AlarmProject: 색다른 알람 서비스](https://github.com/4538cgy/AlarmProject)
 
 # 오픈소스 기여
 
