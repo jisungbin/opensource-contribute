@@ -4,6 +4,10 @@
 
 > 모든 프로젝트는 개발 완료 후 플레이스토어 배포 예정입니다
 
+### 각각 프로젝트 설명 아티클
+
+[jisungbin.medium.com](https://jisungbin.medium.com/%EC%A7%84%ED%96%89%EC%A4%91%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%93%A4-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%EB%81%84%EC%A0%81%EB%81%84%EC%A0%81-279b5272594e)
+
 --- 
 
 # 메인 프로젝트
