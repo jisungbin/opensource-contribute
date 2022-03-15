@@ -13,8 +13,6 @@
 # 메인 프로젝트
 
 1. [RunnerBe: 직장인 타겟 러닝 모임 O2O 플랫폼](https://github.com/applemango-runnerbe/RunnerBe-Android)
-2. [털뭉치: 집사들의 공간](https://github.com/furry-pet/fur-Android)
-3. [쓱싹: 유저간 좋은 컨텐츠 링크 공유 서비스](https://github.com/all-link/sseukssak-android)
 
 # 토이 프로젝트
 
@@ -24,7 +22,8 @@
 4. [다행: 다같이 정하는 여행 계획](https://github.com/dahaeng/dahaeng-android)
 5. [Talent: 글로벌 재능 교환 서비스](https://github.com/talent-service/talent-app)
 6. [AlarmProject: 색다른 알람 서비스](https://github.com/4538cgy/AlarmProject)
-7. 커플 데이트 기록장
+7. [털뭉치: 집사들의 공간](https://github.com/furry-pet/fur-Android)
+8. [쓱싹: 유저간 좋은 컨텐츠 링크 공유 서비스](https://github.com/all-link/sseukssak-android)
 
 # 오픈소스 기여
 
