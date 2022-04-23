@@ -1,4 +1,4 @@
-# 오픈소스 기여 기록
+## 오픈소스 기여 기록
 
 1. [ParkSangGwon/TedKeyboardObserver: README gradle 표기 오류 제보](https://github.com/ParkSangGwon/TedKeyboardObserver/issues/8)
 2. [sangcomz/FishBun: jCenter deprecated 제보](https://github.com/sangcomz/FishBun/issues/244)
