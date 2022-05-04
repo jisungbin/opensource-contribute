@@ -5,3 +5,4 @@
 3. [ibrahimsn98/SmoothBottomBar: README 버전 표기 오류 수정](https://github.com/ibrahimsn98/SmoothBottomBar/pull/100)
 4. [orbit-mvi/orbit-mvi: README 예제 코드 오류 수정](https://github.com/orbit-mvi/orbit-mvi/pull/112)
 5. [[closed] skydoves/landscapist: README 중복 내용 제거](https://github.com/skydoves/Landscapist/pull/61)
+6. [oupson/Kapng-Android: README usage 개선 및 내용 불일치 수정](https://github.com/oupson/Kapng-Android/pull/13)
