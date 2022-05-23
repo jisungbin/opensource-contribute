@@ -8,3 +8,4 @@
 6. [oupson/Kapng-Android: README usage 개선 및 내용 불일치 수정](https://github.com/oupson/Kapng-Android/pull/13)
 7. [AOSP/compose: 내부 문서 오타 수정](https://android-review.googlesource.com/c/platform/frameworks/support/+/2098618/)
 8. [android/compose-sample: Jetcaster 샘플 프로젝트 README out-of-date 수정](https://github.com/android/compose-samples/pull/821)
+9. [fornewid/naver-map-compose: 코드 최적화](https://github.com/fornewid/naver-map-compose)
