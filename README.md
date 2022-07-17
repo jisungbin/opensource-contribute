@@ -6,6 +6,6 @@
 4. [orbit-mvi/orbit-mvi: README 예제 코드 오류 수정](https://github.com/orbit-mvi/orbit-mvi/pull/112)
 5. [[closed] skydoves/landscapist: README 중복 내용 제거](https://github.com/skydoves/Landscapist/pull/61)
 6. [oupson/Kapng-Android: README usage 개선 및 내용 불일치 수정](https://github.com/oupson/Kapng-Android/pull/13)
-7. [AOSP/compose: 내부 문서 오타 수정](https://android-review.googlesource.com/c/platform/frameworks/support/+/2098618/)
+7. [Kotlin/kotlinx.collections.immutable: README usage 잘못된 메서드 수정](https://github.com/Kotlin/kotlinx.collections.immutable/pull/129)
 8. [android/compose-sample: Jetcaster 샘플 프로젝트 README out-of-date 수정](https://github.com/android/compose-samples/pull/821)
 9. [fornewid/naver-map-compose: 코드 최적화](https://github.com/fornewid/naver-map-compose)
